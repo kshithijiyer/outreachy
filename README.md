@@ -15,10 +15,11 @@ of Outreachy 2016 on a number of  upstream projects:
 ### Joining
 If any of these projects sounds interesting to you contact us on [our mailing list](http://lists.openshift.redhat.com/openshift-archives/dev/).  Just mention that you're interested in one of these projects as part of Outreachy and we'll respond right away.
 
-#### Mentors
+Look for us on Freenode's #openshift-outreachy too:
 
-* Andrew Butcher
-* Jason Detiberus
+* Andrew Butcher (abutcher)
+* Jason Detiberus (jdetiber)
+* Brenton Leanhardt (bleanhar)
 
 ### Vagrantfile improvements for [openshift-ansible](https://github.com/openshift/openshift-ansible)
 If you are already familiar with [Vagrant](https://www.vagrantup.com/) or have
