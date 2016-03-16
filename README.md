@@ -21,6 +21,12 @@ Look for us on Freenode's #openshift-outreachy too:
 * Jason Detiberus (jdetiber)
 * Brenton Leanhardt (bleanhar)
 
+### Applying
+
+Please see the [main program page](https://wiki.gnome.org/Outreachy) for the
+general information about the program, such as timeline, background
+information, eligibility, requirements, and the [application form](https://wiki.gnome.org/Outreachy#Submit_an_Application).
+
 ### Vagrantfile improvements for [openshift-ansible](https://github.com/openshift/openshift-ansible)
 If you are already familiar with [Vagrant](https://www.vagrantup.com/) or have
 an interest in learning to make reproduceable development environments for
