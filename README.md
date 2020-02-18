@@ -1,4 +1,4 @@
-#OpenShift Outreachy projects
+# OpenShift Outreachy projects
 
 [OpenShift](https://www.openshift.com) consists of number of community projects
 and products from Red Hat.  This year we'd love for you to participate as part
